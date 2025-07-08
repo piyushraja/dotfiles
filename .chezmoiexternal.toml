@@ -3,7 +3,7 @@
     url = "https://github.com/piyushraja/kickstart.nvim/archive/master.tar.gz"
     exact = true
     stripComponents = 1
-    refreshPeriod = "168h"
+    refreshPeriod = "24h"
 [".oh-my-zsh"]
     type = "archive"
     url = "https://github.com/ohmyzsh/ohmyzsh/archive/master.tar.gz"
@@ -40,4 +40,5 @@
     exact = true
     stripComponents = 1
     refreshPeriod = "168h"
+
 
